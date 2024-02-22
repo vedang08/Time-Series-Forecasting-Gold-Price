@@ -9,11 +9,10 @@ This repository contains a jupyter notebook that focuses on analyzing gold price
 - [Analysis](#analysis)
 - [Models](#models)
 - [Results](#results)
-- [Author](#author)
 
 ## Introduction
 
-In this project, I aim to investigate the relationship between gold prices and COVID-19 by analyzing global COVID-19 cases, vaccination data, and gold prices. The goal is to predict gold prices based on COVID-19 data and evaluate the accuracy of the predictions for more than a 6 month period.
+In this project, I aim to investigate the relationship between gold prices and COVID-19 by analyzing global COVID-19 cases, vaccination data, and gold prices. The goal is to predict gold prices based on COVID-19 data and evaluate the accuracy of the predictions for more than a **6 month period**.
 
 ## Data
 
