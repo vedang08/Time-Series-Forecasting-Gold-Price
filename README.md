@@ -9,6 +9,7 @@ This repository contains a jupyter notebook that focuses on analyzing gold price
 - [Analysis](#analysis)
 - [Models](#models)
 - [Results](#results)
+- [Credits](#credits)
 
 ## Introduction
 
@@ -51,3 +52,18 @@ The performance of each model is evaluated using the MAPE metric. The results ar
 
 
 Based on these results, the use of various machine learning techniques in conjunction with appropriate covariate data can help us reasonably forecast gold prices while also providing evidence of a fundamental link between the demand for gold and the global economic and geopolitical situations allowing for better investment decisions.
+
+## Credits
+
+The following resources were used in the making of this project:
+- [Darts](https://unit8.com/resources/darts-time-series-made-easy-in-python/)
+- [SKLear](https://scikit-learn.org/stable/)
+- [Pandas](https://pandas.pydata.org)
+- [Numpy](https://numpy.org)
+- [Matplotlib](https://matplotlib.org)
+- [Seaborn](https://seaborn.pydata.org)
+
+Also, I'd like to thank the authors of the following research papers for inspiring and guiding this research:
+- Ibrahim Yousef, Esam Shehadeh (2020). The Impact of COVID-19 on Gold Price Volatility, International Journal of Economics and Business Administration Volume VIII Issue 4, 353-364
+- Roshan Gautam, Yoochan Kim, Erkan Topal & Michael Hitch (2022) Correlation between COVID-19 cases and gold price fluctuation, International Journal of Mining, Reclamation and Environment, 36:8, 574-586, DOI: 10.1080/17480930.2022.2077542
+  
