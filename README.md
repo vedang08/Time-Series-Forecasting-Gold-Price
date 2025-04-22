@@ -1,4 +1,4 @@
-# Multivariate Timeseries Forecasting of Gold Prices in lieu of COVID-19
+# Multivariate Timeseries Forecasting of Gold Prices during COVID-19
 
 This repository contains a jupyter notebook that focuses on analyzing gold prices in relation to COVID-19 cases and vaccination efforts.
 
